@@ -10,7 +10,6 @@ metadata:
     vtex.com/o11y-os-index: ""
     grafana/dashboard-selector: ""
     github.com/project-slug: vtex-apps/my-account
-    vtex.com/platform-flow-id: ""
     backstage.io/techdocs-ref: dir:../
     vtex.com/application-id: ATMCJN60
     vtex.com/platform-flow-id: Merch#6
